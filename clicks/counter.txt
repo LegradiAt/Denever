@@ -3,3 +3,4 @@ Erdei denevérfajok (Pdf)|2|../Erdei_deneverfajok.pdf|196
 Denevérek|3|http://www.hunbat.hu/index2.htm|120
 Denevérportál|4|http://lilieci.ro/hu/|105
 Transindex|5|http://deneverek.adatbank.transindex.ro/|114
+Holtfa (Pdf)|6|..\Holtfa.pdf|0
