@@ -1,0 +1,120 @@
+/*.navbar-nav a, .navbar-header a{
+    color: yellow;
+}
+.navbar-nav a:hover, .navbar-header a:hover{
+    color: orange;
+}*/
+/*h1 {
+    font-family: 'Baloo Bhaina', sans-serif;
+}*/
+#deneverekrol {
+    background-color: #444;
+    /*background: url(../img/iStock-gray-matter.jpg) no-repeat center center scroll;*/
+    width:  100%; 
+    background-size: 100% 100%;
+}
+#programrol p {
+    text-align: justify;
+}
+#deneverekrol p {
+    text-align: justify;
+}
+#deneverekrol img {
+    /*float: right;*/
+    margin: 0 0 10px 20px;
+}
+#odukihelyezesek a:hover{
+    position: relative; 
+    right: -5px;
+}
+/*.tovabbiakban {
+    color: #AAA;
+}*/
+#vedelmi a {
+    font-size: 16px;
+}
+#vedelmi .divTable {
+    width: 60%;
+    margin: 0 auto;
+    font-size: 16px;
+    color: #AAA;
+}
+.divTableCellSelectable {
+    color: white;
+    cursor: pointer;
+}
+.divTableCellSelectable:hover {
+    background-color: #444;
+}
+#odukihelyezesek a {
+    font-size: 16px;
+}
+.wow {
+    /*visibility: hidden !important;*/
+    visibility: hidden;
+}
+/*#cim {
+    display: none;
+}*/
+.modal-header {
+    background-color: lightgray;
+    border-radius: 5px 5px 0 0;
+}
+.modal-content {
+    color: black;
+    text-align: justify;
+}
+.modal-footer {
+    background-color: lightgray;
+    border-radius: 0 0 5px 5px;
+}
+#loader {
+    width: 50px;
+    height: 50px;
+    border: 5px solid #222;
+    border-top-color: white;
+    border-radius: 100%;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    animation: round 2s linear infinite;
+}
+@keyframes round{
+    from{transform: rotate(0deg)}
+    to{transform: rotate(360deg)}
+}
+/*a[href^="http"]:after {
+     content: "   " url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAVklEQVR4Xn3PgQkAMQhDUXfqTu7kTtkpd5RA8AInfArtQ2iRXFWT2QedAfttj2FsPIOE1eCOlEuoWWjgzYaB/IkeGOrxXhqB+uA9Bfcm0lAZuh+YIeAD+cAqSz4kCMUAAAAASUVORK5CYII=);    
+}*/
+/*#myModal {
+    border-radius: 20px;
+}*/
+blockquote {
+  background: #666;
+  border-left: 10px solid #ccc;
+  /*margin: 1.5em 10px;*/
+  margin: 15px 0;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+  text-align: left;
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
+blockquote footer {
+    margin: 5px;
+    padding: 0;
+    color: #CCC;
+    font-size: 16px;
+}
